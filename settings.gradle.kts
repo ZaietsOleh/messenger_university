@@ -1,0 +1,1 @@
+rootProject.name = "com.universitylab.ktor-messenger-university"
